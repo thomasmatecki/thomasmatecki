@@ -1,6 +1,9 @@
 ### Howdy!!
 
 [![CircleCI](https://circleci.com/gh/thomasmatecki/thomasmatecki.svg?style=svg)](https://circleci.com/gh/thomasmatecki/thomasmatecki)
+
+https://thomasmatecki.statuspage.io/
+
 <!--
 **thomasmatecki/thomasmatecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
