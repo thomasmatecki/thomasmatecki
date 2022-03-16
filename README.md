@@ -2,6 +2,8 @@
 
 [![CircleCI](https://circleci.com/gh/thomasmatecki/thomasmatecki.svg?style=svg)](https://circleci.com/gh/thomasmatecki/thomasmatecki)
 
+https://github.com/thomasmatecki
+
 https://thomasmatecki.statuspage.io/
 
 <!--
